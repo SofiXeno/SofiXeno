@@ -1,4 +1,4 @@
-<h1 align="left">Hi there👋, I'm Sofia</h1>
+<h1 align="left">Hi there👋,  I'm Sofia</h1>
 <h3 align="left">A passionate and hardworking iOS developer from Ukraine 🤓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofixeno&label=Profile%20views&color=0e75b6&style=flat" alt="sofixeno" /> </p>
