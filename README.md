@@ -1,7 +1,8 @@
 # Hi there everyone 👋, I'm Sofia 
 
 
-![Made with love in Ukraine](https://madewithlove.now.sh/ua)
+![Made with love in Ukraine](https://madewithlove.now.sh/ua?heart=true&template=for-the-badge)
+
 
 💥 I’m currently looking for a job as an iOS dev<br>💫 I’m looking to collaborate on some interesting iOS projects<br>
 <br>
