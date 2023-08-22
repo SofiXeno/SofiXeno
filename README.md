@@ -2,6 +2,7 @@
 
 
 ![Made with love in Ukraine](https://madewithlove.now.sh/ua?heart=true&style=for-the-badge)
+![Made with love in Ukraine](https://madewithlove.now.sh/ua?template=for-the-badge&heart=true)
 
 
 💥 I’m currently looking for a job as an iOS dev<br>💫 I’m looking to collaborate on some interesting iOS projects<br>
