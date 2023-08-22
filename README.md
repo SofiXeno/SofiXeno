@@ -1,7 +1,6 @@
 # Hi there everyone 👋, I'm Sofia 
 
 
-![Made with love in Ukraine](https://madewithlove.now.sh/ua?heart=true&style=for-the-badge)
 ![Made with love in Ukraine](https://madewithlove.now.sh/ua?template=for-the-badge&heart=true)
 
 
