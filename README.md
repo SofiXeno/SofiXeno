@@ -1,6 +1,6 @@
 # Hi there everyone 👋, I'm Sofia 
-![](http://ForTheBadge.com/images/badges/built-with-love.svg?style=flat)
-<br>
+![Made with love in Ukraine](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
 💥 I’m currently looking for a job as an iOS dev<br>💫 I’m looking to collaborate on some interesting iOS projects<br>
 <br>
 
