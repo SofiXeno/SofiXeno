@@ -1,7 +1,6 @@
 # Hi there everyone 👋, I'm Sofia 
 ![](http://ForTheBadge.com/images/badges/built-with-love.svg?style=flat)
 <br>
-<br>
 💥 I’m currently looking for a job as an iOS dev<br>💫 I’m looking to collaborate on some interesting iOS projects<br>
 <br>
 
@@ -24,7 +23,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sofia&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=Sofia&icon=7&color=9)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Sofia&icon=7&color=9)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
