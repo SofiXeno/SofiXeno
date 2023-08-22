@@ -23,7 +23,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sofia&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-![](https://visitcount.itsvg.in/api?id=Sofia&icon=7&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sofia&icon=7&color=9)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
