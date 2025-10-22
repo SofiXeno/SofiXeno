@@ -20,11 +20,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=SofiXeno&theme=nightowl&hide_border=true&show_icons=true&cache_seconds=21600)<br/>
 [![](https://streak-stats.demolab.com?user=SofiXeno&theme=nightowl&hide_border=true)](https://streak-stats.demolab.com?user=SofiXeno&theme=nightowl&hide_border=true)<br/>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiXeno&theme=nightowl&hide_border=true&layout=compact&cache_seconds=21600)](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiXeno&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sofia&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=Sofia&icon=7&color=9)](https://visitcount.itsvg.in)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
